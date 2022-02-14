@@ -1,0 +1,300 @@
+[
+    {
+        "id":1,
+        "name":"Maybelline New York ",
+        "price":112,
+        "price2":160,
+         "stars":4,
+        "description" :"Free Volumizing Mascara - 01 Pitch Black Brand: Maybelline New York | Similar products from Maybelline New York 4.2 out of 5",
+        "img": "/images/2.jpg",
+        "img2": "/images/1.jpg",
+        "img3": "/images/5.jpg",
+    
+        "color":"black",
+     "brand":"Maybelline"
+    },
+    {
+        "id":2,
+        "name":" L'Oreal Paris False ",
+        "price":165,
+        "price2":315,
+         "stars":5,
+        "description" :"Fiber Mascara - Black Brand: L'Oreal Paris | Similar products from L'Oreal Paris",
+        "img": "/images/1 (1).jpg",
+        "img2": "/images/3.jpg",
+        "img3": "/images/2 (1).jpg",
+    
+        "color":"black",
+        "brand":"L'Oreal"
+    },
+    {
+        "id":3,
+        "name":"L'Oreal Paris Paradise ",
+        "price":155,
+        "price2":299,
+         "stars":4,
+        "description" :"Volume Mascara Brand: L'Oreal Paris | Similar products from L'Oreal Paris",
+        "img": "/images/5 (1).jpg",
+        "img2": "/images/1 (2).jpg",
+        "img3": "/images/3 (1).jpg",
+    
+        "color":"black",
+        "brand":"L'Oreal"
+     
+    },
+    {
+        "id":4,
+        "name":"Maybelline New York ",
+        "price":156,
+        "price2":260,
+         "stars":3,
+        "description" :"Enhance the look of your eyes with the Maybelline Lash Sensational Mascara. It has a low wax formula",
+        "img": "/images/71A7QxyBgmL._SL1500_.jpg",
+        "img2": "/images/51tvj+DeJML._SL1000_.jpg",
+        "img3": "/images/61hN3zHpAjL._SL1000_.jpg",
+    
+        "color":"black",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":5,
+        "name":"EMax Factor 2000 ",
+        "price":170,
+        "price2":185,
+         "stars":4,
+        "description" :"EMax Factor 2000 Calorie DraMatic Vol Mascara , Black",
+        "img": "/images/711E7nd0wUL._SL1500_.jpg",
+        "img2": "/images/71k2eZqPTSL._SL1500_.jpg",
+        "img3": "/images/71QeNpgcCPL._SL1500_.jpg",
+    
+        "color":"black",
+        "brand":"EMax"
+     
+    },
+    {
+        "id":6,
+        "name":"Maybelline New York ",
+        "price":70,
+        "price2":85,
+         "stars":5,
+        "description" :"The Maybelline New York Colossal Go Extreme Mascara is the key to beautiful eyes. It features a double-pump brush that has two chambers for",
+        "img": "/images/81gziv35I2L._SL1500_.jpg",
+        "img2": "/images/71wpyQ1QzFL._SL1500_.jpg",
+        "img3": "/images/71K5PcOzx4L._SL1500_.jpg",
+    
+        "color":"black",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":7,
+        "name":"Bourjois Volume Glamour ",
+        "price":156,
+        "price2":260,
+         "stars":4,
+        "description" :"Fixed and long lastingMade of high quality materials",
+        "img": "/images/71t6t7I6S6L._SL1500_.jpg",
+        "img2": "/images/715LoC+AUGL._SL1500_.jpg",
+        "img3": "/images/81nYsXfk5qL._SL1500_.jpg",
+    
+        "color":"black",
+        "brand":"Bourjois Paris"
+     
+    },
+    {
+        "id":8,
+        "name":"Rimmel London Glam ",
+        "price":110,
+        "price2":260,
+         "stars":5,
+        "description" :"The Rimmel London Glam Eyes Day 2 Night Mascara is an excellent addition to your makeup kit. It lets you achieve two dramatically ",
+        "img": "/images/51CphkmmbML._SL1500_.jpg",
+        "img2": "/images/61dBfqW9XiL._SL1500_.jpg",
+        "img3": "/images/51K-TudnETL._SL1500_.jpg",
+    
+        "color":"black",
+        "brand":"Rimmel"
+     
+    },
+    {
+        "id":9,
+        "name":"Maybelline New York ",
+        "price":219,
+        "price2":245,
+         "stars":4,
+        "description" :"Maybelline New York Volum' Express The Colossal Big Shot Washable Mascara - 9.5 ml, Blackest Black",
+        "img": "/images/51Gj3YpfALL._SL1000_.jpg",
+        "img2": "/images/51dhkO1YapL._SL1000_.jpg",
+        "img3": "/images/item_XXL_22860511_136628414.jpg",
+    
+        "color":"black",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":10,
+        "name":"Rimmel London Lycraflex ",
+        "price":89,
+        "price2":217,
+         "stars":4,
+        "description" :"Want the London look? So big yet so precise, the 30% wider and denser MaxDensity brush of this mascara captures and coats even the smallest lashes. Its Triple collagen + keratin formula shapes and plumps even the thinnest lashes. As a result, you have intense eyes",
+        "img": "/images/519sIXo5G8L._AC_SL1500_.jpg",
+        "img2": "/images/616gSJeb7DL._AC_SL1500_.jpg",
+        "img3": "/images/71X3ew5dCUL._AC_SL1500_.jpg",
+    
+        "color":"black",
+        "brand":"Rimmel"
+     
+    },
+    {
+        "id":11,
+        "name":"Maybelline New York ",
+        "price":135,
+        "price2":150,
+         "stars":3,
+        "description" :"The Total Temptation Mascara with its incredible high volume enriches the lashes and gives you a stunning look. Stay beautiful for long with highly durable and easily portable mascara. The mascara pays attention to each lash ",
+        "img": "/images/51O1qUz759L._SL1080_.jpg",
+        "img2": "/images/71e5IcUpopL._SL1500_.jpg",
+        "img3": "/images/71NoFKNgIZS._SL1080_.jpg",
+    
+        "color":"black",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":12,
+        "name":"Essence I Love Extreme ",
+        "price":55,
+        "price2":100,
+         "stars":4,
+        "description" :"Enhance the look of your eyes with the Maybelline Lash Sensational Mascara. It has a low wax formula",
+        "img": "/images/item_XXL_38774895_154004983.jpg",
+        "img2": "/images/item_XL_38774895_154004961.jpg",
+        "img3": "/images/item_XL_38774895_154005008.jpg",
+    
+        "color":"black",
+        "brand":"Essence"
+     
+    },{
+   
+    "id":13,
+    "name":"Golden Rose Perfect ",
+    "price":80,
+    "price2":150,
+     "stars":4,
+    "description" :"Clumping, flaking, and smudge free Specifically designed for your blue eyes Dries quickly Creates volume, thickness and separation",
+    "img": "/images/31moPWZr8vL._SY355_ (1).jpg",
+    "img2": "/images/61PXhRDnn0L._SL1500_.jpg",
+    "img3": "/images/61TgfZBhBoL._SL1500_.jpg",
+
+    "color":"Blue",
+    "brand":"Essence"
+ 
+},{
+   
+    "id":14,
+    "name":"NYX Professional Makeup ",
+    "price":100,
+    "price2":150,
+     "stars":5,
+    "description" :"Highly pigmented mascara with intense color payoff Adds volume, length and color to lashesCan be used at tips of lashes for ombre effect",
+    "img": "/images/61ePrpY0RBL._SL1500_.jpg",
+    "img2": "/images/6141Q4icDSL._SL1500_.jpg",
+    "img3": "/images/61dAZLdQNLL._SL1500_.jpg",
+
+    "color":"Blue",
+    "brand":"NYX PROFESSIONAL MAKEUP"
+ 
+},{
+   
+    "id":15,
+    "name":"Vegan Mascara ",
+    "price":200,
+    "price2":250,
+     "stars":4,
+    "description" :"Buildable Lengthening and Volumizing for Long Lashes or Natural Looking Eyelashes - Cruelty Free Volume and Length Lash Boost (Blue)",
+    "img": "/images/6177KqEh8KL._SL1500_.jpg",
+    "img2": "/images/61UsNaROXeS._SL1500_.jpg",
+    "img3": "/images/719FllXUHcL._SL1500_.jpg",
+
+    "color":"Blue",
+    "brand":"Gaya Cosmetics"
+ 
+},{
+   
+    "id":16,
+    "name":"Pure Ziva Deep ",
+    "price":150,
+    "price2":250,
+     "stars":5,
+    "description" :"Clump-free formula & brush Made in the USA Beautiful color subtly brings out eyes & makes them POP Ophthalmologist tested, appropriate for contact lens wearers",
+    "img": "/images/81WJbsXJSfL._SL1500_.jpg",
+    "img2": "/images/71ySjqmf2IL._SL1500_.jpg",
+    "img3": "/images/71ye4xmSA0L._SL1500_.jpg",
+
+    "color":"Blue",
+    "brand":"Essence"
+ 
+},{
+   
+    "id":17,
+    "name":"Glum 4D Silk  ",
+    "price":80,
+    "price2":150,
+     "stars":4,
+    "description" :"Quick-Drying Waterproof Long-Lasting Lash Extension Makeup Mascara,Purple, Blue, Green,Red and Yellow No Flaking Natural Extension Mascara Greater",
+    "img": "/images/51hnoHnb5+S._AC_SL1500_.jpg",
+    "img2": "/images/61AtGBIsP0S._AC_SL1500_.jpg",
+    "img3": "/images/71xTk5NgKKS._AC_SL1500_.jpg",
+
+    "color":"Blue",
+    "brand":"Glum"
+ 
+},{
+   
+    "id":18,
+    "name":"L'Oreal Paris Makeup ",
+    "price":280,
+    "price2":300,
+     "stars":3,
+    "description" :"Clumping, flaking, and smudge free Specifically designed for your blue eyes Dries quickly Creates volume, thickness and separation",
+    "img": "/images/51Yd-ay+QqL._SL1213_.jpg",
+    "img2": "/images/51u97oK+X8L._SL1125_.jpg",
+    "img3": "/images/81iVtmAmwbL._SL1500_.jpg",
+
+    "color":"white",
+    "brand":"L'Oreal"
+ 
+},{
+   
+    "id":19,
+    "name":"Covergirl Lash Blast ",
+    "price":100,
+    "price2":150,
+     "stars":4,
+    "description" :"INSTANT LASH BOOST: Eyelash primer maximizes the look of your favorite Covergirl mascara FROM ROOT TO TIP: Lashes look thicker and longer from root to tip CREAMY FORMULA: The creamy, lightweight formula glides on evenly to coat every lash",
+    "img": "/images/61kp6T6HHkL._SL1500_ (1).jpg",
+    "img2": "/images/71y7a2YTEML._SL1500_.jpg",
+    "img3": "/images/71PSpDZGlgL._SL1500_.jpg",
+
+    "color":"white",
+    "brand":"Covergirl"
+ 
+},{
+   
+    "id":20,
+    "name":"Luma Lash Professional ",
+    "price": 300,
+    "price2":350,
+     "stars":5,
+    "description" :"Clumping, flaking, and smudge free Specifically designed for your blue eyes Dries quickly Creates volume, thickness and separation",
+    "img": "/images/f08c3826-b581-4611-9f41-367c2103863d.dd88878dc8d83b307f7a56df2525c506.jpeg",
+    "img2": "/images/ebbfd129-c70e-4063-b472-704330e0ced6.73096f54c9eddecab10085e0793d9e54.jpeg",
+    "img3": "/images/6879be74-1938-40b5-aa96-119af6c09484.b1acd2668223c7a21d04845a6174a735.jpeg",
+
+    "color":"white",
+    "brand":"Luma by Laura"
+ 
+}
+]

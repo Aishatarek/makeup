@@ -1,0 +1,301 @@
+[
+    {
+        "id":1,
+        "name":"NYX PROFESSIONAL MAKEUP",
+        "price":200,
+        "price2":250,
+         "stars":4,
+        "description" :"Define Your Eye: Get precise, sharp lines and long lasting intense color with no smudges; Dermatologist and Ophthalmologist tested, fragrance free, suitable for sensitive eyes and contact lens wearers",
+        "img": "/images/61X3I1Yk3zS._SL1500_.jpg",
+        "img2": "/images/31ev5cNV5AS._SX300_SY300_QL70_FMwebp_.webp",
+        "img3": "/images/61Ce2Y0tzsS._SL1500_.jpg",
+    
+        "color":"black",
+     "brand":"NYX"
+    },
+    {
+        "id":2,
+        "name":" Maybelline Eyestudio Master",
+        "price":165,
+        "price2":315,
+         "stars":5,
+        "description" :"No Smudge Black Liquid Eyeliner: This waterproof eyeliner features an ultra fine tip that delivers defined, precise line and stays put for up to 12 hours with whatever look you're working",
+        "img": "/images/81B5uT0M05L._SL1500_.jpg",
+        "img2": "/images/61u3Qsy67TL._SL1500_.jpg",
+        "img3": "/images/91WsZr-PhIL._SL1500_.jpg",
+    
+        "color":"black",
+        "brand":"Maybelline "
+    },
+    {
+        "id":3,
+        "name":"  Maybelline New York",
+        "price":100,
+        "price2":150,
+         "stars":5,
+        "description" :"Tattoo Liner gel pencil draws on an ultra-precise line with color in10sity that lasts for 36 hours",
+        "img": "/images/81QSZcnpseL._SL1500_.jpg",
+        "img2": "/images/71fLV5I5jSL._SL1500_.jpg",
+        "img3": "/images/81idHdwsjZS._SL1500_.jpg",
+    
+        "color":"blue",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":4,
+        "name":"stila Stay All Day",
+        "price":100,
+        "price2":150,
+         "stars":4,
+        "description" :"Our #1 selling waterproof liquid liner enables you to create a variety of eye-opening effects—from thin, precise lines to thick, dramatic looks. The formula glides on with ease, dries quickly and won't smudge or run, day-into-night.",
+        "img": "/images/41rvkrLf-vL._SL1005_.jpg",
+        "img2": "/images/21P6KksHQJL._SX342_SY445_QL70_FMwebp_.webp",
+        "img3": "/images/31pTuLYEVpL._SL1005_.jpg",
+    
+        "color":"white",
+        "brand":"Stila"
+     
+     
+    },
+    {
+        "id":5,
+        "name":" NYX PROFESSIONAL MAKEUP",
+        "price":170,
+        "price2":185,
+         "stars":4,
+        "description" :"All Eyes On Eye Makeup: Complete your look with our full range of NYX Professional Makeup eye makeup products from eyeshadow palettes to mascara, eyeliners, concealers, setting sprays, and eyebrow products",
+        "img": "/images/51qS9Ur1BTL._SL1000_.jpg",
+        "img2": "/images/61W882M0OLL._SL1000_.jpg",
+        "img3": "/images/61KNQOUbQwL._SL1000_.jpg",
+    
+        "color":"brown",
+        "brand":"NYX "
+     
+    },
+    {
+        "id":6,
+        "name":"NYX PROFESSIONAL MAKEUP ",
+        "price":80,
+        "price2":85,
+         "stars":5,
+        "description" :"36 Hour Wear: NYX Professional Makeup Epic Wear Liner Sticks are powerfully pigmented eyeliner pencils that deliver 36 hours of waterproof, smudge proof, and fade proof eyeliner color; It's perfect for waterproof all day and night graphic eyeliner looks",
+        "img": "/images/61mkUSl5uFL._SL1500_.jpg",
+        "img2": "/images/51nHsn8Kr4S._SL1000_.jpg",
+        "img3": "/images/315k0aBVc7L.jpg",
+    
+        "color":"white",
+        "brand":"NYX"
+     
+    },
+    {
+        "id":7,
+        "name":"L'Oreal Paris Makeup ",
+        "price":156,
+        "price2":260,
+         "stars":3,
+        "description" :"Infallible Waterproof Eyeliner: This long-lasting, smudge-proof eyeliner glides on easily for creamy color that lasts up to 24 hours without smudging",
+        "img": "/images/41LeEPwM5CL._AC_.jpg",
+        "img2": "/images/51p1SlFmOoL._AC_SL1125_.jpg",
+        "img3": "/images/819yoqy4zWL._AC_SL1500_.jpg",
+    
+        "color":"brown",
+        "brand":"L'Oreal "
+       
+    },
+    {
+        "id":8,
+        "name":"e.l.f. H2O Proof Eyeliner Pen",
+        "price":110,
+        "price2":260,
+         "stars":5,
+        "description" :"RICH color: The e.l.f. H2O Proof Eyeliner Pen enhances the lash line with rich color.",
+        "img": "/images/51RBC+kPMJL._SL1000_.jpg",
+        "img2": "/images/31549+-gUoL._SX300_SY300_QL70_FMwebp_.webp",
+        "img3": "/images/515rAsnLoAL._SL1000_.jpg",
+    
+        "color":"black",
+        "brand":"E.l.f."
+     
+    },
+    {
+        "id":9,
+        "name":"HAUS LABORATORIES by Lady Gaga",
+        "price":219,
+        "price2":245,
+         "stars":4,
+        "description" :"Our demi-matte brown liquid eyeliner pen will bring any look to life. This quick dry formula has a superfine, flexible felt-tip to give you the versatility to create any look, even the signature Lady Gaga wing",
+        "img": "/images/51E8El0PuAL._SL1400_.jpg",
+        "img2": "/images/51yJPZo1EgL._SL1400_.jpg",
+        "img3": "/images/81wpREk8hnL._SL1400_.jpg",
+    
+        "color":"brown",
+        "brand":"Haus Laboratories"
+     
+    },
+    {
+        "id":10,
+        "name":"Maybelline New York Makeup",
+        "price":89,
+        "price2":217,
+         "stars":4,
+        "description" :"Age Perfect Hydrating Lipstick: Formulated with Nourishing Serum and Pro Vitamin B5, this lipstick delivers 9-hour hydration and doesn't feather into lines; Over time, lips look smoother and feel more supple",
+        "img": "/images/71StVTQA4kL._SL1500_.jpg",
+        "img2": "/images/71j608D4SIL._SL1500_.jpg",
+        "img3": "/images/71WGeDGHZML._SL1000_.jpg",
+    
+        "color":"black",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":11,
+        "name":"Maybelline New York",
+        "price":135,
+        "price2":150,
+         "stars":3,
+        "description" :"This mechanical liner defines eyes and delivers the ultimate in application control",
+        "img": "/images/71-JYcIFpxL._SL1500_.jpg",
+        "img2": "/images/41oiwB1MWMS._SL1280_.jpg",
+        "img3": "/images/61y9NH8Xs9S._SL1280_.jpg",
+    
+        "color":"blue",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":12,
+        "name":"IM UNNY Skinny Fit Art Liner",
+        "price":55,
+        "price2":100,
+         "stars":4,
+        "description" :"Strong pigmentation creates a sharp and clear line Becomes one with your lids from morning to night",
+        "img": "/images/31+2A8aVE7L.jpg",
+        "img2": "/images/31rgQMKCaxL.jpg",
+        "img3": "/images/51uxt-u6OVL._SL1000_.jpg",
+    
+        "color":"black",
+        "brand":"UNNY CLUB"
+     
+    },{
+   
+    "id":13,
+    "name":" L'Oreal Paris Makeup Infallible",
+    "price":80,
+    "price2":150,
+     "stars":4,
+    "description" :"Precise Wings Every Time: This waterproof, liquid brush tip eyeliner gives you a smudge free cat eye look; A removable wing stencil helps you get perfectly precise wings, every time",
+    "img": "/images/71qb08TkVKL._SL1500_.jpg",
+    "img2": "/images/41AbwUIcobL._SX300_SY300_QL70_FMwebp_.webp",
+    "img3": "/images/91ckzadN0rL._SL1500_.jpg",
+
+    "color":"brown",
+    "brand":" L'Oreal"
+ 
+},{
+   
+    "id":14,
+    "name":"L'Oréal Paris Infallible Paints",
+    "price":100,
+    "price2":150,
+     "stars":5,
+    "description" :"The Faces Canada Velvet Matte Lipstick gives your lips a vibrant and velvet matte finish.",
+    "img": "/images/71ljNup7XeL._SL1500_.jpg",
+    "img2": "/images/71iEkMOLyKL._SL1500_.jpg",
+    "img3": "/images/51o3z4HAZ6L._SL1500_.jpg",
+
+    "color":"white",
+    "brand":"L'Oréal"
+ 
+},{
+   
+    "id":15,
+    "name":"L'Oreal Paris Makeup Infallible",
+    "price":200,
+    "price2":250,
+     "stars":4,
+    "description" :"Super Slim Liquid Eyeliner: The Super Slim longwear ultra fine tip liquid eyeliner gives you total control for precise lines that last up to 12 hour; Create a sleek sophisticated look with this 0.4 millimeter eyeliner pen",
+    "img": "/images/61B3J-bDJpL._SL1500_.jpg",
+    "img2": "/images/71wXgxrtI5L._SL1500_.jpg",
+    "img3": "/images/71Y0P8XLTrL._SL1500_.jpg",
+
+    "color":"black",
+    "brand":"L'Oreal "
+ 
+},{
+   
+    "id":16,
+    "name":"NYX PROFESSIONAL MAKEUP",
+    "price":150,
+    "price2":250,
+     "stars":5,
+    "description" :"Eyeliner Crayon: This blendable radiant eyeliner crayon is a total triple threat; Use your Jumbo Eyeliner Pencil as a creamy eyeshadow, eyeliner and highlighter; Apply it to your water lines, inner corners and entire eye lid for a pop of intense color",
+    "img": "/images/51Iqd1vKDEL._SL1000_.jpg",
+    "img2": "/images/71uJ8TFS71L._SL1000_.jpg",
+    "img3": "/images/7129O6M4u8L._SL1000_.jpg",
+
+    "color":"blue",
+    "brand":"NYX"
+ 
+},{
+   
+    "id":17,
+    "name":" NYX PROFESSIONAL MAKEUP",
+    "price":80,
+    "price2":150,
+     "stars":4,
+    "description" :"Retractable Eye Liner: A line and defined eye is just a twist away with this eyeliner pen; Intense pigment covers like a liquid eyeliner while its creamy formula holds for hours; No need to sharpen just twist up and apply for a winged out eyeliner look",
+    "img": "/images/61tUcNVcRLL._SL1000_.jpg",
+    "img2": "/images/31TMpqAIcxL._SX300_SY300_QL70_FMwebp_.webp",
+    "img3": "/images/51mLn1ZHM0L._SL1000_.jpg",
+
+    "color":"Blue",
+    "brand":" NYX"
+ 
+},{
+   
+    "id":18,
+    "name":"CLIO Sharp So Simple",
+    "price":280,
+    "price2":300,
+     "stars":3,
+    "description" :"[SERVE UP SMOLDERING LOOKS] Our creamy and smooth pencil eyeliner glides on effortlessly to define your eye. The highly-pigmented formula offers rich and deep colors. No tugging, skipping, or dragging involved!",
+    "img": "/images/51+iwOFtjAL._SL1200_.jpg",
+    "img2": "/images/51k7JlzZsWL._SL1200_.jpg",
+    "img3": "/images/618hAOa3InL._SL1200_.jpg",
+
+    "color":"brown",
+    "brand":"CLIO"
+ 
+},{
+   
+    "id":19,
+    "name":"HAUS LABORATORIES by Lady Gaga",
+    "price":100,
+    "price2":150,
+     "stars":4,
+    "description" :"WATERPROOF GEL PENCIL EYELINER with one-swipe payoff and true, vibrant saturation for a bold, high-impact finish that matches your mood.",
+    "img": "/images/71kQtoMGmoL._SL1400_.jpg",
+    "img2": "/images/215v93gU8vL._SY445_SX342_QL70_FMwebp_.webp",
+    "img3": "/images/51HOCrkCw2L._SL1400_.jpg",
+
+    "color":"white",
+    "brand":"Haus Laboratories "
+ 
+},{
+   
+    "id":20,
+    "name":"Maybelline New York Line",
+    "price": 300,
+    "price2":350,
+     "stars":5,
+    "description" :"Apply eyeliner for creamy, smooth color impact, and any liner look from subtle and simple to smoky and intense",
+    "img": "/images/81i3NOFdbqL._SL1500_.jpg",
+    "img2": "/images/71H6D7KSYkL._SL1500_.jpg",
+    "img3": "/images/61X81nND37L._SL1500_.jpg",
+
+    "color":"brown",
+    "brand":"Maybelline"
+ 
+}
+]

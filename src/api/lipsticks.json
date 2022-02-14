@@ -1,0 +1,300 @@
+[
+    {
+        "id":1,
+        "name":"Maybelline  Sensational Lipstick ",
+        "price":200,
+        "price2":250,
+         "stars":4,
+        "description" :"Free Volumizing Mascara - 01 Pitch Black Brand: Maybelline New York | Similar products from Maybelline New York 4.2 out of 5",
+        "img": "/images/81+Ha9-EgmL._SL1500_.jpg",
+        "img2": "/images/71fWO5LXECL._SL1500_.jpg",
+        "img3": "/images/91oxyR1gCIL._SL1500_.jpg",
+    
+        "color":"pink",
+     "brand":"Maybelline"
+    },
+    {
+        "id":2,
+        "name":"Maybelline New York  ",
+        "price":165,
+        "price2":315,
+         "stars":5,
+        "description" :"Liquid Matte Lipstick: This highly pigmented liquid lipstick features a long lasting, no transfer formula and leaves a flawless matte finish in super saturated shades ranging from classic red to nude to bold and bright",
+        "img": "/images/31NI2hRc84S._SL1000_.jpg",
+        "img2": "/images/413o5Fg1nfS._SL1000_.jpg",
+        "img3": "/images/61R5DYEYIyS._SL1000_.jpg",
+    
+        "color":"red",
+        "brand":"Maybelline "
+    },
+    {
+        "id":3,
+        "name":"Maybelline Color  Lipstick ",
+        "price":100,
+        "price2":150,
+         "stars":5,
+        "description" :"Volume Mascara Brand: L'Oreal Paris | Similar products from L'Oreal Paris",
+        "img": "/images/61q-fjqBczL._SL1001_.jpg",
+        "img2": "/images/51zdjLLty0L._SL1000_.jpg",
+        "img3": "/images/6115gXyVvFL._SL1001_.jpg",
+    
+        "color":"red",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":4,
+        "name":"NYX PROFESSIONAL MAKEUP ",
+        "price":156,
+        "price2":260,
+         "stars":3,
+        "description" :"Soft Matte Lip Cream: Creamy soft matte coverage that never feels dry, in matte nudes and red lipstick shades inspired by world cities; Slide on a Soft Matte Lip Cream and instantly transport yourself",
+        "img": "/images/71N+OvYsJ3S._SL1500_.jpg",
+        "img2": "/images/61QeBhYd29S._SL1500_.jpg",
+        "img3": "/images/911cHNFZbqL._SL1500_.jpg",
+    
+        "color":"red",
+        "brand":"NYX "
+     
+    },
+    {
+        "id":5,
+        "name":"Maybelline New York",
+        "price":170,
+        "price2":185,
+         "stars":4,
+        "description" :"SATIN LIPSTICK: Made using specially selected pigments & tested on 50 diverse skin tones, this satin lipstick features collectible universal shades that look sensational on all!",
+        "img": "/images/71BL3yjFmRL._SL1500_.jpg",
+        "img2": "/images/711ksyUlqfL._SL1500_.jpg",
+        "img3": "/images/71cnRXZfp+L._SL1500_.jpg",
+    
+        "color":"red",
+        "brand":"Maybelline"
+     
+    },
+    {
+        "id":6,
+        "name":"NYX PROFESSIONAL MAKEUP ",
+        "price":80,
+        "price2":85,
+         "stars":5,
+        "description" :"The Maybelline New York Colossal Go Extreme Mascara is the key to beautiful eyes. It features a double-pump brush that has two chambers for",
+        "img": "/images/61WJwPXOl7L._SL1500_.jpg",
+        "img2": "/images/31ch6VEGQDL._SX300_SY300_QL70_FMwebp_.webp",
+        "img3": "/images/315k0aBVc7L.jpg",
+    
+        "color":"pink",
+        "brand":"NYX"
+     
+    },
+    {
+        "id":7,
+        "name":"Revlon Super Lustrous ",
+        "price":100,
+        "price2":150,
+         "stars":4,
+        "description" :"YOUR FAVORITE LIP MAKEUP: This cult-classic, iconic lipstick is the perfect combination of high-impact color and a super-moisturizing formula",
+        "img": "/images/71bbKY2iyLL._SL1500_.jpg",
+        "img2": "/images/711-2YmQpGL._SL1500_.jpg",
+        "img3": "/images/61I+E-rBYZL._SL1500_.jpg",
+    
+        "color":"red",
+        "brand":"REVLON"
+     
+    },
+    {
+        "id":8,
+        "name":"Clinique Long Last Lipstick",
+        "price":110,
+        "price2":260,
+         "stars":5,
+        "description" :"Clinique Long Last Lipstick - Ginger Flower (Soft Shine) 4g/0.14oz ",
+        "img": "/images/61XpSEzzXqL._SL1500_.jpg",
+        "img2": "/images/71-gvpO3wgL._SL1500_.jpg",
+        "img3": "/images/61cpZVoxMvL._SL1500_.jpg",
+    
+        "color":"red",
+        "brand":"Clinique"
+     
+    },
+    {
+        "id":9,
+        "name":" L'Oreal Paris Colour",
+        "price":219,
+        "price2":245,
+         "stars":4,
+        "description" :"Colour Riche Lipcolor: Indulge in richness beyond compare with our most luxuriously rich color and hydration; Colour Riche Lipstick is enriched with nourishing ingredients like Omega 3",
+        "img": "/images/51of0fdgDrL._SL1000_.jpg",
+        "img2": "/images/314kLwlBywL._SX300_SY300_QL70_FMwebp_.webp",
+        "img3": "/images/61nv7dyygGL._SL1000_.jpg",
+    
+        "color":"black",
+        "brand":" L'Oreal"
+     
+    },
+    {
+        "id":10,
+        "name":" L'Oreal Paris Age Perfect",
+        "price":89,
+        "price2":217,
+         "stars":4,
+        "description" :"Age Perfect Hydrating Lipstick: Formulated with Nourishing Serum and Pro Vitamin B5, this lipstick delivers 9-hour hydration and doesn't feather into lines; Over time, lips look smoother and feel more supple",
+        "img": "/images/71+oqqZtPXL._SL1500_.jpg",
+        "img2": "/images/31Y9qxG1h-L._SX300_SY300_QL70_FMwebp_.webp",
+        "img3": "/images/91CGJkUq-aL._SL1500_.jpg",
+    
+        "color":"red",
+        "brand":"L'Oreal"
+     
+    },
+    {
+        "id":11,
+        "name":"NYX PROFESSIONAL MAKEUP",
+        "price":135,
+        "price2":150,
+         "stars":3,
+        "description" :"The Total Temptation Mascara with its incredible high volume enriches the lashes and gives you a stunning look. Stay beautiful for long with highly durable and easily portable mascara. The mascara pays attention to each lash ",
+        "img": "/images/61Hen9d+fSL._SL1500_.jpg",
+        "img2": "/images/31Y5IW14i+L._SX300_SY300_QL70_FMwebp_.webp",
+        "img3": "/images/71-JYcIFpxL._SL1500_.jpg",
+    
+        "color":"brown",
+        "brand":"NYX"
+     
+    },
+    {
+        "id":12,
+        "name":"NYX PROFESSIONAL MAKEUP",
+        "price":55,
+        "price2":100,
+         "stars":4,
+        "description" :"Enhance the look of your eyes with the Maybelline Lash Sensational Mascara. It has a low wax formula",
+        "img": "/images/61AfadjIYIL._SL1500_.jpg",
+        "img2": "/images/61MXNSMFJYL._SL1500_.jpg",
+        "img3": "/images/61BhV3sRt9L._SL1000_.jpg",
+    
+        "color":"brown",
+        "brand":"NYX"
+     
+    },{
+   
+    "id":13,
+    "name":" NYX PROFESSIONAL MAKEUP",
+    "price":80,
+    "price2":150,
+     "stars":4,
+    "description" :"MATTE LIQUID LIPSTICK: Doll your lips in high-impact color with NYX Professional Makeup Liquid Suede Cream Lipstick. A striking long-wearing matte finish is just a swipe away with this plush liquid lipstick.",
+    "img": "/images/61FQO82IqSL._SL1500_.jpg",
+    "img2": "/images/61WB66j06RL._AC_UL320_.jpg",
+    "img3": "/images/31JahJcqquL.jpg",
+
+    "color":"brown",
+    "brand":" NYX "
+ 
+},{
+   
+    "id":14,
+    "name":"Faces Canada Velvet Matte",
+    "price":100,
+    "price2":150,
+     "stars":5,
+    "description" :"The Faces Canada Velvet Matte Lipstick gives your lips a vibrant and velvet matte finish.",
+    "img": "/images/71j2g6KVlQS._SL1500_.jpg",
+    "img2": "/images/71I32Tmwv6S._SL1500_.jpg",
+    "img3": "/images/81Z4bGtBbRS._SL1500_.jpg",
+
+    "color":"brown",
+    "brand":"FACESCANADA"
+ 
+},{
+   
+    "id":15,
+    "name":"Bobbi Brown Grenadine",
+    "price":200,
+    "price2":250,
+     "stars":4,
+    "description" :"Available at a lower price from other sellers that may not offer free Prime shipping.",
+    "img": "/images/51vFACILpsL._SL1500_.jpg",
+    "img2": "/images/61jeMnNjL1L._SL1500_.jpg",
+    "img3": "/images/51q+eNTchGL._SL1500_.jpg",
+
+    "color":"brown",
+    "brand":"Bobbi Brown"
+ 
+},{
+   
+    "id":16,
+    "name":"Maybelline New York",
+    "price":150,
+    "price2":250,
+     "stars":5,
+    "description" :"Clump-free formula & brush Made in the USA Beautiful color subtly brings out eyes & makes them POP Ophthalmologist tested, appropriate for contact lens wearers",
+    "img": "/images/71FnSmO6PZL._SL1500_.jpg",
+    "img2": "/images/71VJQrqO9nL._SL1500_.jpg",
+    "img3": "/images/61ODtg8fktL._SL1200_.jpg",
+
+    "color":"beige",
+    "brand":"Maybelline"
+ 
+},{
+   
+    "id":17,
+    "name":" NYX PROFESSIONAL MAKEUP",
+    "price":80,
+    "price2":150,
+     "stars":4,
+    "description" :"Quick-Drying Waterproof Long-Lasting Lash Extension Makeup Mascara,Purple, Blue, Green,Red and Yellow No Flaking Natural Extension Mascara Greater",
+    "img": "/images/71V3riWWS5S._SL1500_.jpg",
+    "img2": "/images/41hNCtTUkLS._SX300_SY300_QL70_FMwebp_.webp",
+    "img3": "/images/71ErGYX5sxS._SL1500_.jpg",
+
+    "color":"Blue",
+    "brand":" NYX"
+ 
+},{
+   
+    "id":18,
+    "name":"L'Oreal Paris Makeup ",
+    "price":280,
+    "price2":300,
+     "stars":3,
+    "description" :"Clumping, flaking, and smudge free Specifically designed for your blue eyes Dries quickly Creates volume, thickness and separation",
+    "img": "/images/61U217qv8uL._SL1000_.jpg",
+    "img2": "/images/61ScvSAF7KS._SL1000_.jpg",
+    "img3": "/images/71ygiiVmRnL._SL1000_.jpg",
+
+    "color":"white",
+    "brand":"L'Oreal"
+ 
+},{
+   
+    "id":19,
+    "name":"NYX PROFESSIONAL MAKEUP",
+    "price":100,
+    "price2":150,
+     "stars":4,
+    "description" :"Plumping Matte Nude Lipstick: NYX Professional Makeup Lip Lingerie Push up features a gentle plumping complex formula that makes it easy to line, fill and plump your lips with long lasting matte lipstick like a pro",
+    "img": "/images/51gn4PexSyL._SL1000_.jpg",
+    "img2": "/images/51CPlb1XiZL._SL1000_.jpg",
+    "img3": "/images/51pd1ZHNdIL._SL1000_.jpg",
+
+    "color":"beige",
+    "brand":"NYX "
+ 
+},{
+   
+    "id":20,
+    "name":"COVERGIRL Exhibitionist Lipstick",
+    "price": 300,
+    "price2":350,
+     "stars":5,
+    "description" :"Clumping, flaking, and smudge free Specifically designed for your blue eyes Dries quickly Creates volume, thickness and separation",
+    "img": "/images/61JardqyliL._SL1500_.jpg",
+    "img2": "/images/71EdlZnsunL._SL1500_.jpg",
+    "img3": "/images/91wqeJkfFAL._SL1500_.jpg",
+
+    "color":"beige",
+    "brand":"COVERGIRL"
+ 
+}
+]
